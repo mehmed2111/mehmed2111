@@ -12,6 +12,8 @@ My BLE work includes device discovery and connection, GATT service and character
 
 My background includes native mobile development with **Java and Objective-C**, as well as **C/C++** development.
 
+> Most of my professional projects are maintained in private repositories.
+
 ---
 
 ## 🧑‍💻 About Me

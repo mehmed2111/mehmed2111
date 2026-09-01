@@ -6,7 +6,9 @@ I'm a **Computer Engineer** focused on mobile application development, with prof
 
 I build, maintain and improve applications for **Android and iOS**, working with REST APIs, cloud services, databases and connected systems.
 
-I also have hands-on experience with **Bluetooth Low Energy (BLE)** integrations, including device communication, data exchange and firmware update workflows.
+I have hands-on experience integrating **Bluetooth Low Energy (BLE) devices** into Flutter applications, primarily using **FlutterBluePlus**.
+
+My BLE work includes device discovery and connection, GATT service and characteristic handling, data read/write operations and OTA/FOTA firmware updates.
 
 My background includes native mobile development with **Java and Objective-C**, as well as **C/C++** development.
 
@@ -54,7 +56,6 @@ My background includes native mobile development with **Java and Objective-C**, 
 ### Connectivity & IoT
 
 ![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![FlutterBluePlus](https://img.shields.io/badge/FlutterBluePlus-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge)
 

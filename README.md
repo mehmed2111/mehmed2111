@@ -88,8 +88,8 @@ I also gained professional experience in **computer vision and license plate rec
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmed2111&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmed2111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmed2111&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmed2111&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -103,10 +103,4 @@ I also gained professional experience in **computer vision and license plate rec
   <a href="https://www.linkedin.com/in/mehmed-mustafa-ismail-a66754112/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! 👋</i>
 </p>

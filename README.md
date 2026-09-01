@@ -167,7 +167,7 @@ I also worked on **computer vision and license plate recognition (LPRS)** using 
       alt="GitHub"
     />
   </a>
-  <a href="https://www.linkedin.com/in/mehmed-mustafa-ismail-a66754112/">
+  <a href="https://www.linkedin.com/in/mehmed-ismail/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"

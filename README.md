@@ -2,13 +2,13 @@
 
 ### Computer Engineer | Flutter Developer | Mobile Application Developer
 
-I’m a **Computer Engineer** focused on building mobile applications with **Flutter and Dart**.
+I'm a **Computer Engineer** focused on mobile application development, with professional experience mainly in **Flutter and Dart**.
 
-I have professional experience developing and maintaining applications for **Android and iOS**, working with REST APIs, databases, Firebase, AWS, MQTT and IoT systems.
+I build, maintain and improve applications for **Android and iOS**, working with REST APIs, cloud services, databases and connected systems.
 
-My background also includes native mobile development with **Java and Objective-C**, as well as **C/C++**.
+I also have hands-on experience with **Bluetooth Low Energy (BLE)** integrations, including device communication, data exchange and firmware update workflows.
 
-I enjoy building clean, reliable and practical mobile solutions.
+My background includes native mobile development with **Java and Objective-C**, as well as **C/C++** development.
 
 ---
 
@@ -17,6 +17,7 @@ I enjoy building clean, reliable and practical mobile solutions.
 - 🎓 **B.Sc. in Computer Engineering** — Ankara University
 - 📱 Professional experience with **Flutter & Dart**
 - 📲 Android & iOS application development
+- 📶 Bluetooth Low Energy (**BLE**) integrations
 - 🔗 REST API & JSON integrations
 - ☁️ Firebase & AWS
 - 🗄️ MySQL & Microsoft SQL Server
@@ -50,18 +51,25 @@ I enjoy building clean, reliable and practical mobile solutions.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Cloud, IoT & Tools
+### Connectivity & IoT
+
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![FlutterBluePlus](https://img.shields.io/badge/FlutterBluePlus-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge)
+
+### Cloud & Tools
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
 ## 🚀 Featured Experience
+
+### 📱 Mobile Application Development
 
 My professional experience is mainly focused on **mobile application development with Flutter**.
 
@@ -80,11 +88,25 @@ Some of the Flutter projects I have worked on:
 
 I also have experience with native **Android development using Java** and **iOS development using Objective-C**.
 
+### 📶 Bluetooth Low Energy
+
+I have hands-on experience integrating **Bluetooth Low Energy (BLE) devices** into Flutter applications using **FlutterBluePlus**.
+
+My BLE work includes:
+
+- Device scanning and discovery
+- Connecting to and managing BLE devices
+- Discovering services and characteristics
+- Reading data from BLE characteristics
+- Writing commands and data to BLE devices
+- Handling connection and disconnection states
+- Implementing **FOTA / OTA firmware update workflows**
+
 ---
 
 ## 🤖 Engineering Background
 
-My software background started with different areas of computer engineering before focusing mainly on mobile development.
+My software background started across different areas of computer engineering before focusing mainly on mobile development.
 
 During my university studies, I developed an **Arduino-based robotic system controlled through Android**. The project included:
 
@@ -101,6 +123,8 @@ I also worked on **computer vision and license plate recognition (LPRS)** using 
 
 ```text
 📱 Cross-platform mobile apps   → Flutter / Dart
+📶 BLE-connected applications   → Bluetooth LE / FlutterBluePlus
+🔄 Firmware update workflows    → FOTA / OTA
 🔗 API-driven applications      → REST / JSON
 ☁️ Cloud-connected apps         → Firebase / AWS
 📡 Connected systems            → MQTT / IoT

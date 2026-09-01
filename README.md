@@ -4,15 +4,13 @@
 
 I'm a **Computer Engineer** focused on mobile application development, with professional experience mainly in **Flutter and Dart**.
 
-I build, maintain and improve applications for **Android and iOS**, working with REST APIs, cloud services, databases and connected systems.
+I build and maintain applications for **Android and iOS**, working with REST APIs, cloud services, databases and connected systems.
 
-I have hands-on experience integrating **Bluetooth Low Energy (BLE) devices** into Flutter applications, primarily using **FlutterBluePlus**.
+I also have hands-on experience with **Bluetooth Low Energy (BLE)** integrations, including device communication, data read/write operations and OTA/FOTA firmware update workflows.
 
-My BLE work includes device discovery and connection, GATT service and characteristic handling, data read/write operations and OTA/FOTA firmware updates.
+My background includes native mobile development with **Java and Objective-C**, as well as **C/C++** and computer vision.
 
-My background includes native mobile development with **Java and Objective-C**, as well as **C/C++** development.
-
-> Most of my professional projects are maintained in private repositories.
+> This profile primarily contains personal projects and experiments. Most of my professional work is maintained in private company repositories.
 
 ---
 

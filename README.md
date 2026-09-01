@@ -2,13 +2,13 @@
 
 ### Computer Engineer | Flutter Developer | Mobile Application Developer
 
-I'm a **Computer Engineer** with professional experience in mobile application development, mainly focused on **Flutter and Dart**.
+I’m a **Computer Engineer** focused on building mobile applications with **Flutter and Dart**.
 
-I develop, maintain and improve applications for **Android and iOS**, working with REST APIs, databases, cloud services and connected systems.
+I have professional experience developing and maintaining applications for **Android and iOS**, working with REST APIs, databases, Firebase, AWS, MQTT and IoT systems.
 
-My background also includes native mobile development with **Java and Objective-C**, as well as **C/C++** development.
+My background also includes native mobile development with **Java and Objective-C**, as well as **C/C++**.
 
-🎯 **Currently focused on:** Flutter mobile applications, API integrations, maintenance and continuous improvements.
+I enjoy building clean, reliable and practical mobile solutions.
 
 ---
 

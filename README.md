@@ -4,16 +4,18 @@
 
 I'm a **Computer Engineer** with professional experience in mobile application development, mainly focused on **Flutter and Dart**.
 
-I develop and maintain applications for **Android and iOS**, working with REST APIs, databases, cloud services and connected systems.
+I develop, maintain and improve applications for **Android and iOS**, working with REST APIs, databases, cloud services and connected systems.
 
 My background also includes native mobile development with **Java and Objective-C**, as well as **C/C++** development.
+
+🎯 **Currently focused on:** Flutter mobile applications, API integrations, maintenance and continuous improvements.
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 **B.Sc. in Computer Engineering** — Ankara University
-- 📱 Focused on **Flutter & Dart**
+- 📱 Professional experience with **Flutter & Dart**
 - 📲 Android & iOS application development
 - 🔗 REST API & JSON integrations
 - ☁️ Firebase & AWS
@@ -25,7 +27,7 @@ My background also includes native mobile development with **Java and Objective-
 
 ## 🛠️ Tech Stack
 
-### Mobile & Platforms
+### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -59,11 +61,11 @@ My background also includes native mobile development with **Java and Objective-
 
 ---
 
-## 🚀 Experience
+## 🚀 Featured Experience
 
 My professional experience is mainly focused on **mobile application development with Flutter**.
 
-I have worked on the development, maintenance and improvement of mobile applications, including projects published on both the **App Store and Google Play**.
+I have worked on the development, maintenance and improvement of mobile applications, including applications published on both the **App Store and Google Play**.
 
 Some of the Flutter projects I have worked on:
 
@@ -82,9 +84,16 @@ I also have experience with native **Android development using Java** and **iOS 
 
 ## 🤖 Engineering Background
 
-During my Computer Engineering studies, I worked on an **Arduino-based robotic system controlled through Android**, including obstacle avoidance, maze solving and Bluetooth communication.
+My software background started with different areas of computer engineering before focusing mainly on mobile development.
 
-I also gained experience in **computer vision and license plate recognition (LPRS)** using **C++, OpenCV, Boost and Curl**.
+During my university studies, I developed an **Arduino-based robotic system controlled through Android**. The project included:
+
+- Obstacle avoidance
+- Maze solving
+- Bluetooth communication with Android
+- Two-dimensional environment mapping
+
+I also worked on **computer vision and license plate recognition (LPRS)** using **C++, OpenCV, Boost and Curl** during my software internship.
 
 ---
 
@@ -96,3 +105,45 @@ I also gained experience in **computer vision and license plate recognition (LPR
 ☁️ Cloud-connected apps         → Firebase / AWS
 📡 Connected systems            → MQTT / IoT
 📲 Mobile experiences           → Android / iOS
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmed2111&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmed2111&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehmed2111&theme=github_dark"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mehmed2111">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/mehmed-mustafa-ismail-a66754112/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
